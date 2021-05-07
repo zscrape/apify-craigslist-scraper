@@ -1,8 +1,8 @@
-# Craiglist Scrapper
+# Craigslist Scrapper
 
 ### **This actor is published on the [Apify Store](https://apify.com/andrewtaylor/craigslist-scraper)**
 
-- [Overview] (#Overview)
+- [Overview](#Overview)
 - [How to Use](#How-to-Use)
 - [Input Parameters](#Input-Parameters)
 - [Usage Costs](#Usage-Costs)
