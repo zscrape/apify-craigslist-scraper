@@ -1,4 +1,4 @@
-# Craiglist Scrapper
+# Craigslist Scrapper
 
 ### **This actor is published on the [Apify Store](https://apify.com/andrewtaylor/craigslist-scraper)**
 
