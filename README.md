@@ -1,11 +1,15 @@
-# Craigslist Scrapper
+# Craiglist Scrapper
 
 ### **This actor is published on the [Apify Store](https://apify.com/andrewtaylor/craigslist-scraper)**
 
+- [Overview] (#Overview)
 - [How to Use](#How-to-Use)
 - [Input Parameters](#Input-Parameters)
 - [Usage Costs](#Usage-Costs)
 - [Contact](#Contact)
+
+## Overview
+Scrapes Craigslist for new posts matching your search criteria and sends an email alert. Ideal for finding new leads, items for sale, housing, job postings, gigs, and more! Be the first to respond to new posts.
 
 ## How to Use
 
